@@ -8,7 +8,9 @@
 
 ## Installation
 
--   composer install
+```
+composer install
+```
 
 ## Run
 
